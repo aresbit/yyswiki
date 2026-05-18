@@ -18,4 +18,17 @@
 
 ---
 
-*日志由LLM自动维护。每次操作后添加新条目。*
+*日志由LLM自动维护。每次操作后添加新条目。*## [2026-05-18] ingest | 中国驻美大使谢锋：成为中国人刷屏、极致中国化出圈
+- Source: https://us.china-embassy.gov.cn/chn/dshd/202605/t20260513_11909419.htm
+- Category: article
+- File: 中国驻美大使谢锋成为中国人刷屏极致中国化出圈.md
+- Memory: saved
+
+| 2026-05-18 | ingest | 中国驻美大使谢锋：成为中国人刷屏、极致中国化出圈 | article | 中国驻美大使谢锋成为中国人刷屏极致中国化出圈.md | memory | https://us.china-embassy.gov.cn/chn/dshd/202605/t20260513_11909419.htm |
+## [2026-05-18] ingest | 潮声：跨洋对话朱溪瑞——一个玩笑如何引爆成为中国人全球热潮
+- Source: https://zjnews.zjol.com.cn/zjnews/202603/t20260312_31546877.shtml
+- Category: article
+- File: 潮声跨洋对话朱溪瑞一个玩笑如何引爆成为中国人全球热潮.md
+- Memory: saved
+
+| 2026-05-18 | ingest | 潮声：跨洋对话朱溪瑞——一个玩笑如何引爆成为中国人全球热潮 | article | 潮声跨洋对话朱溪瑞一个玩笑如何引爆成为中国人全球热潮.md | memory | https://zjnews.zjol.com.cn/zjnews/202603/t20260312_31546877.shtml |
